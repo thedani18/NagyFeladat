@@ -1,0 +1,6 @@
+Számlaszám: 31
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+7 		Samu Dani kávéja 		1 		10000 		10000
+4 		Ír különleges ízű tea 		2 		3100 		6200
+1 		Café_Pelé 		3 		1449 		4347
+Összesen: 20547

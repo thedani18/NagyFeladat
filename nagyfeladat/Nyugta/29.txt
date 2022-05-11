@@ -1,0 +1,5 @@
+Számlaszám: 1
+Cikkszam 	Termek 	Mennyiség 	Egységár 	Fizetendő
+4 	Ír különleges ízű tea 	1 	3100 	3100
+2 	Café_Frei 	4 	2999 	11996
+Összesen: 15096
